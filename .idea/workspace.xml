@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cadcbca-5791-453b-a8c7-665fed9efb7c" name="Changes" comment="">
+    <list default="true" id="2cadcbca-5791-453b-a8c7-665fed9efb7c" name="Changes" comment="Aplicando herança.">
+      <change afterPath="$PROJECT_DIR$/DesafioBanco/src/Conta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioBanco/src/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioBanco/src/Banco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioBanco/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioBanco/src/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioBanco/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioBanco/src/ContaCorrente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DesafioBanco/src/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioBanco/src/ContaPoupanca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,29 +23,33 @@
     &quot;assignee&quot;: &quot;alex-alves-dev&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/alex-alves-dev/Dio_Desafio_BancoDigitalComJava.git",
-    "accountId": "38ee5ba4-d58d-4338-8322-bc8695db599e"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alex-alves-dev/Dio_Desafio_BancoDigitalComJava.git&quot;,
+    &quot;accountId&quot;: &quot;38ee5ba4-d58d-4338-8322-bc8695db599e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2jfV0Eo3XZUjFucnu5vxdb2gC2V" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/alex-alves/Documents/Java_Backend/Dio_Desafio_BancoDigitalComJava"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/alex-alves/Documents/Java_Backend/Dio_Desafio_BancoDigitalComJava&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,6 +59,20 @@
       <option name="presentableId" value="Default" />
       <updated>1721777894544</updated>
     </task>
+    <task id="LOCAL-00001" summary="Aplicando herança.">
+      <option name="closed" value="true" />
+      <created>1721832670577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721832670577</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Aplicando herança." />
+    <option name="LAST_COMMIT_MESSAGE" value="Aplicando herança." />
   </component>
 </project>
