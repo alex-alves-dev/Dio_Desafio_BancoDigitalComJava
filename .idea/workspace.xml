@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2cadcbca-5791-453b-a8c7-665fed9efb7c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Dio_Desafio_BancoDigitalComJava.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BancoDigitalComJava/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BancoDigitalComJava/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BancoDigitalComJava/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BancoDigitalComJava/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BancoDigitalComJava/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BancoDigitalComJava/BancoDigitalComJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioBanco/src/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioBanco/src/Banco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioBanco/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioBanco/src/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioBanco/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioBanco/src/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesafioBanco/src/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioBanco/src/ContaPoupanca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,22 +19,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "alex-alves-dev"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alex-alves-dev&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/alex-alves-dev/Dio_Desafio_BancoDigitalComJava.git",
-    "accountId": "e9e4935b-6226-4573-90d4-5415fa32c150"
+    "accountId": "38ee5ba4-d58d-4338-8322-bc8695db599e"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2jfV0Eo3XZUjFucnu5vxdb2gC2V" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,7 +44,8 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/alex-alves/Documents/Java_Backend/Dio_Desafio_BancoDigitalComJava"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
