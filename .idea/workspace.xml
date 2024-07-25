@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cadcbca-5791-453b-a8c7-665fed9efb7c" name="Changes" comment="Aplicando herança.">
+    <list default="true" id="2cadcbca-5791-453b-a8c7-665fed9efb7c" name="Changes" comment="Aplicando polimorfismo e desenvolvendo saque, deposito, transferencia e extrato">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioBanco/src/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioBanco/src/Banco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioBanco/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioBanco/src/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioBanco/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioBanco/src/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioBanco/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioBanco/src/ContaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioBanco/src/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioBanco/src/ContaPoupanca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioBanco/src/IConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioBanco/src/IConta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721834307713</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Aplicando herança.">
+      <option name="closed" value="true" />
+      <created>1721922275020</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721922275021</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
