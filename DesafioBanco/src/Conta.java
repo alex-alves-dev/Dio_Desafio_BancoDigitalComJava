@@ -1,3 +1,4 @@
+//visibilidade abstrata impede que seja criada conta diferente do padrao Corrente ou Poupanca
 public abstract class Conta implements IConta {
 
     //visibilidade protected para acesso pelas classes filhas
